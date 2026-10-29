@@ -31,4 +31,4 @@ Estou construindo minha base em desenvolvimento de software, praticando com proj
 
 ## 📫 Contato
 
-[![LinkedIn][https://www.linkedin.com/in/ayslan-piovani]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayslan-rissato-piovani-9b67113b8/)
