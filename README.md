@@ -83,13 +83,6 @@ sistema-clinica-vida/
 - Tratamento de erros com `try/except`
 - Validação de entradas do usuário
 
-## 🗺️ Próximos passos
-
-- [ ] Salvar os dados em arquivo (JSON ou CSV)
-- [ ] Editar e remover pacientes
-- [ ] Evitar cadastros duplicados
-- [ ] Adicionar testes automatizados
-
 ## 👨‍💻 Autor
 
 **Ayslan Piovani**
